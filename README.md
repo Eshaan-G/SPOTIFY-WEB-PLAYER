@@ -24,3 +24,11 @@ cd SPOTIFY-WEB-PLAYER
  #  Dependencies & Configuration
 This project does not require any external dependencies or package installations.
 
+## Demo Video
+
+[![Watch the demo](https://img.youtube.com/vi/gLhzYtx5Tvg/maxresdefault.jpg)](https://youtu.be/gLhzYtx5Tvg)
+
+This video demonstrates the features of my Spotify-Web-Player project-a responsive web music player built with HTML, CSS, and JavaScript. The video shows how users can play songs, browse playlists, and interact with a modern, Spotify-inspired interface, all within a web browser.
+
+
+
